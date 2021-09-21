@@ -1,0 +1,31 @@
+#FONTsize{
+font-size: 30px;
+}
+#title{
+    text-align:center;
+    font-size:32;
+}
+#div1{
+    width:100%;
+    border-radius:18px;
+    box-shadow:10px 10px 20px white;
+    background-color: #dcc2f0;
+
+}
+body{
+    background-color: #e1faf8;
+}
+#footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    background-color: #dcc2f0;
+    line-height:1.7;
+}
+canvas{
+border-style:dotted;
+border-color:black;
+border-width:3px;
+
+}
